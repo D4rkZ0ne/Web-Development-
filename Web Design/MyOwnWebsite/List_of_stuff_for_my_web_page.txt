@@ -1,0 +1,31 @@
+				Own Website
+-------------------------------------------------------------------------------------------------------------------------------
+				Home Page 
+
+- Nav bar will be hidden, so there will be a arrow that will drop down the Nav bar for the top.
+- In the circle will be a picture of myself an it will be outlined of myself with a outer glow. So kinda of background behind it.
+- On the Home Page where my name is located, that will be created/creative.
+- Footer will have my Socail Media links. No background to the footer their an the links to my social media will be customise.
+
+
+				
+				Project Page
+
+- When hovering over project there will be a drop down menu of all the topic's. When they click on the topic it will take them to that page with all the projects in it.
+- For each topic. Each one of them will have multple projects inside them. With 3D shape Css, with a shadow in the background that will tell if projects goes into what.
+- Underneath each project, it will have a description of what's implement inside of each project an what kinda of coding was used.
+
+
+
+				  About Page 
+
+- Rectangle picture of my self with a shadow in the background to give it depth. 
+- Underneath the picture will have a long description of my self. Adding to that it will have read more so that the pargraph isn't way to long.
+- Add a contact underneath all of that, so they can send a message or email out to me.
+
+
+
+				      Resume
+
+- It will have the same picture on the Home page.
+- Just same old, putting the resume inside of a web page, with all the information inside of it.

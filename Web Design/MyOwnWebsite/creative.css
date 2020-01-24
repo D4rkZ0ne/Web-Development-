@@ -1,0 +1,40 @@
+/*
+Error: Invalid CSS after "  backgorund-": expected "{", was "}"
+        on line 5 of C:\Users\User\Desktop\Web Development\Web Design\MyOwnWebsite\creative.scss
+
+1: /* Sass page that contains all the css together *\/
+2: 
+3: body{
+4:   backgorund-
+5: }
+
+Backtrace:
+C:\Users\User\Desktop\Web Development\Web Design\MyOwnWebsite\creative.scss:5
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/scss/parser.rb:1278:in `expected'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/scss/parser.rb:1208:in `expected'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/scss/parser.rb:1203:in `tok!'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/scss/parser.rb:677:in `block'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/scss/parser.rb:747:in `declaration_or_ruleset'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/scss/parser.rb:697:in `block_child'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/scss/parser.rb:686:in `block_contents'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/scss/parser.rb:678:in `block'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/scss/parser.rb:670:in `ruleset'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/scss/parser.rb:696:in `block_child'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/scss/parser.rb:686:in `block_contents'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/scss/parser.rb:137:in `stylesheet'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/scss/parser.rb:41:in `parse'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/engine.rb:414:in `_to_tree'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/engine.rb:389:in `_render_with_sourcemap'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/engine.rb:307:in `render_with_sourcemap'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/exec/sass_scss.rb:391:in `run'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/exec/sass_scss.rb:63:in `process_result'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/exec/base.rb:52:in `parse'
+D:/Program Files/rubygems/gems/sass-3.5.2/lib/sass/exec/base.rb:19:in `parse!'
+D:/Program Files/rubygems/gems/sass-3.5.2/bin/sass:13:in `<top (required)>'
+D:/Program Files/bin/sass:22:in `load'
+D:/Program Files/bin/sass:22:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid CSS after \"  backgorund-\": expected \"{\", was \"}\"\A         on line 5 of C:\Users\User\Desktop\Web Development\Web Design\MyOwnWebsite\creative.scss\A \A 1: /* Sass page that contains all the css together */\A 2: \A 3: body{\A 4:   backgorund-\A 5: }"; }
